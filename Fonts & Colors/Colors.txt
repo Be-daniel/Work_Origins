@@ -1,0 +1,15 @@
+/* --- DCL des couleurs --- */
+
+$blanc: #fff;
+$blanc_vl3: #e7e7e7;
+$border_color_vl1: #4d4d4d;
+$noir: #000;
+$gris: #282828;
+$gris_vl2: #484848;
+$gris_faible: #80868b;
+$orange: #ff4500;
+$bleu: #318aff;
+$bleu_nuit: #007694;
+$rouge: #fe0002;
+$rouge_vl2: #cb0215;
+$vert: #3ff800;

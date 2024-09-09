@@ -1,0 +1,51 @@
+$mail->Username   = getenv('SMTP_USERNAME'); 
+        $mail->Password   = getenv('SMTP_PASSWORD'); 
+
+        $mail->Username   = 'beledanny4@gmail.com'; 
+        $mail->Password   = 'wgpfkqwyccqgnqdk';  
+
+
+
+
+
+
+        --- File cleaned up by Wampserver ---
+--- on 2024-09-07 19:02
+127.0.0.1 - - [07/Sep/2024:20:04:32 +0100] "GET / HTTP/1.1" 200 21312
+127.0.0.1 - - [07/Sep/2024:20:04:36 +0100] "GET /wampthemes/popupmodal.css HTTP/1.1" 200 3477
+127.0.0.1 - - [07/Sep/2024:20:04:36 +0100] "GET /wampthemes/classic/style.css HTTP/1.1" 200 2972
+127.0.0.1 - - [07/Sep/2024:20:04:37 +0100] "GET /wampthemes/classic/img/pngWrench.png HTTP/1.1" 200 741
+127.0.0.1 - - [07/Sep/2024:20:04:37 +0100] "GET /wampthemes/classic/img/gifLogo1.gif HTTP/1.1" 200 2681
+127.0.0.1 - - [07/Sep/2024:20:04:37 +0100] "GET /wampthemes/classic/img/pngFolderGo.png HTTP/1.1" 200 694
+127.0.0.1 - - [07/Sep/2024:20:04:37 +0100] "GET /favicon.ico HTTP/1.1" 200 202575
+127.0.0.1 - - [07/Sep/2024:20:04:58 +0100] "GET /Work_Origins/Contact HTTP/1.1" 301 359
+127.0.0.1 - - [07/Sep/2024:20:04:58 +0100] "GET /Work_Origins/Contact/ HTTP/1.1" 200 1679
+127.0.0.1 - - [07/Sep/2024:20:04:58 +0100] "GET /icons/blank.gif HTTP/1.1" 200 148
+127.0.0.1 - - [07/Sep/2024:20:04:58 +0100] "GET /icons/back.gif HTTP/1.1" 200 216
+127.0.0.1 - - [07/Sep/2024:20:04:58 +0100] "GET /icons/unknown.gif HTTP/1.1" 200 245
+127.0.0.1 - - [07/Sep/2024:20:04:58 +0100] "GET /icons/text.gif HTTP/1.1" 200 229
+127.0.0.1 - - [07/Sep/2024:20:05:00 +0100] "GET /Work_Origins/Contact/Form_contact.php HTTP/1.1" 200 832
+127.0.0.1 - - [07/Sep/2024:20:10:55 +0100] "POST /Work_Origins/Contact/send_email.php HTTP/1.1" 302 -
+127.0.0.1 - - [07/Sep/2024:20:10:56 +0100] "GET /Work_Origins/Contact/Form_contact.php HTTP/1.1" 200 965
+127.0.0.1 - - [07/Sep/2024:20:12:59 +0100] "GET /Work_Origins/Contact/Form_contact.php HTTP/1.1" 200 832
+127.0.0.1 - - [07/Sep/2024:20:13:34 +0100] "POST /Work_Origins/Contact/send_email.php HTTP/1.1" 302 -
+127.0.0.1 - - [07/Sep/2024:20:13:34 +0100] "GET /Work_Origins/Contact/Form_contact.php HTTP/1.1" 200 965
+
+
+
+
+
+
+
+winnt:notice] [pid 9704:tid 404] AH00455: Apache/2.4.59 (Win64) PHP/8.2.18 mod_fcgid/2.3.10-dev configured -- resuming normal operations
+[Sat Sep 07 20:02:55.820159 2024] [mpm_winnt:notice] [pid 9704:tid 404] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Sat Sep 07 20:02:55.820159 2024] [core:notice] [pid 9704:tid 404] AH00094: Command line: 'c:\\wamp64\\bin\\apache\\apache2.4.59\\bin\\httpd.exe -d C:/wamp64/bin/apache/apache2.4.59'
+[Sat Sep 07 20:02:55.831348 2024] [mpm_winnt:notice] [pid 9704:tid 404] AH00418: Parent: Created child process 13252
+[Sat Sep 07 20:02:56.370844 2024] [mpm_winnt:notice] [pid 13252:tid 464] AH00354: Child: Starting 64 worker threads.
+
+
+
+
+--- on 2024-09-07 19:02
+[07-Sep-2024 19:10:56 UTC] Erreur d'envoi d'email: 
+[07-Sep-2024 19:13:34 UTC] Erreur d'envoi d'email: 
